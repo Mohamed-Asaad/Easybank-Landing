@@ -1,0 +1,64 @@
+/* Title Section */
+.title-container {
+  background-color: #fff;
+  text-align: center;
+}
+
+.nav-item {
+  padding: 1%;
+}
+
+.btn-mystyle {
+  border-radius: 70px;
+  background-color: #1ED030;
+  border: 0;
+  padding: 5px 20px;
+}
+
+/* Description Section */
+#description-style {
+  background-color: #f9f9f9;
+}
+
+.under-image {
+  margin: 0;
+  width: 1000px;
+  position: absolute;
+  right: 0;
+  height: auto;
+  z-index: 0;
+}
+
+.top-image {
+  position: absolute;
+  z-index: 2;
+}
+
+/* Feature Section */
+#feature-style {
+  position: relative;
+  border-color: #dae1e7;
+  padding: 10% 12% 3%;
+  z-index: 1;
+}
+
+/* Latest Articles */
+#articles-style {
+  position: relative;
+  background-color: #f9f9f9;
+  padding: 5% 12%;
+}
+
+.latest-image {
+  width: 260px;
+  height: 260px;
+  border-radius: 10px;
+  margin-bottom: 4%;
+}
+
+/* Footer */
+
+#footer-style {
+  background-color: #2B3856;
+  padding: 3% 12%;
+}
