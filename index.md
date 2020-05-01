@@ -14,14 +14,9 @@
 
   <!-- CSS Stylesheets -->
 
-  <link rel="stylesheet" href="https://github.com/Mohamed-Asaad/Easybank-Landing-Page/blob/master/bootstrap.css">
-  <link rel="stylesheet" href="https://github.com/Mohamed-Asaad/Easybank-Landing-Page/blob/master/styles.css">
+    <link rel="stylesheet" href="https://github.com/Mohamed-Asaad/Easybank-Landing-Page/blob/master/styles.css">
 
-   <!-- Bootstrap scripts -->
-
-  <script src="https://github.com/Mohamed-Asaad/Easybank-Landing-Page/blob/master/bootstrap.js"></script>
-
-</head>
+ </head>
 
 <body>
 
