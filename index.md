@@ -218,7 +218,7 @@
       </div>
       <div class="col-lg-3" style="text-align: right;">
         <button type="button" class="btn btn-dark btn-mystyle">Request Invite</button>
-        <h6 style="color: #dae1e7; padding-top: 20px;">© Easybank. All Rights Reserved</h6>
+        <h6 style="color: #dae1e7; padding-top: 21px;">© Easybank. All Rights Reserved</h6>
 
       </div>
 
