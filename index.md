@@ -13,8 +13,8 @@
   <link href="https://fonts.google.com/specimen/Public+Sans" rel="stylesheet">
 
   <!-- CSS Stylesheets -->
-
     <link rel="stylesheet" href="https://github.com/Mohamed-Asaad/Easybank-Landing-Page/blob/master/styles.css">
+    <link rel="stylesheet" href="https://github.com/twbs/bootstrap">
 
  </head>
 
